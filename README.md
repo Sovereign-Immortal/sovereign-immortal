@@ -1,7 +1,5 @@
 # 💫 About Me:
-while True:<br>          <pre>   print("DND")</pre><br><br>Reader by Heart<br><br>Raising the comprehension of my main path to Supreme Grandmaster Attainment<br><br>I’m a software engineer  who looks at the potential hidden in things and how a small change (a  line of code, a design choice, a team habit) can shift an entire system.<br><br>I  love building projects that tell a story, yet I’m equally drawn to the  elegance of abstraction. I aim for solutions that are simple on the surface  and deeply coherent underneath.<br><br>My  curiosity extends beyond computer science I find inspiration in  biology, psychology, and physics, and I often borrow mental models from  those fields to approach problems from a fresh angle.
-
-
+while True:<br>          <pre>   print("DND")</pre><br><br>Reader by Heart<br>Through a million years of planning and accumulation
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuragshre/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragshre2005@gmail.com) 
 
@@ -22,6 +20,5 @@ while True:<br>          <pre>   print("DND")</pre><br><br>Reader by Heart<br><b
 ![](https://github-contributor-stats.vercel.app/api?username=sovereign-immortal&limit=5&theme=date_night&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sovereign-immortal&icon=10&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
