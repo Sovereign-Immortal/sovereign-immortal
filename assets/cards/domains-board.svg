@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360"><rect width="900" height="360" fill="transparent"/><g transform="translate(10,10)">
+  <rect width="250" height="110" rx="2" fill="#0e0f12" stroke="#c9a227" stroke-opacity="0.3"/>
+  <rect x="0" y="0" width="3" height="110" fill="#c9a227"/>
+  <text x="20" y="38" fill="#e7e2d6" font-family="Georgia,serif" font-size="18" font-weight="600">Gu Cultivation</text>
+  <text x="20" y="68" fill="#9a9488" font-family="Georgia,serif" font-size="13">Nine ranks. C-grade perseverance.</text>
+  <text x="20" y="92" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="2">ENTER DOMAIN</text>
+</g><g transform="translate(310,10)">
+  <rect width="250" height="110" rx="2" fill="#0e0f12" stroke="#c9a227" stroke-opacity="0.3"/>
+  <rect x="0" y="0" width="3" height="110" fill="#c9a227"/>
+  <text x="20" y="38" fill="#e7e2d6" font-family="Georgia,serif" font-size="18" font-weight="600">Programming Dao</text>
+  <text x="20" y="68" fill="#9a9488" font-family="Georgia,serif" font-size="13">Deterministic logic into realms.</text>
+  <text x="20" y="92" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="2">ENTER DOMAIN</text>
+</g><g transform="translate(610,10)">
+  <rect width="250" height="110" rx="2" fill="#0e0f12" stroke="#c9a227" stroke-opacity="0.3"/>
+  <rect x="0" y="0" width="3" height="110" fill="#c9a227"/>
+  <text x="20" y="38" fill="#e7e2d6" font-family="Georgia,serif" font-size="18" font-weight="600">Metaphysics</text>
+  <text x="20" y="68" fill="#9a9488" font-family="Georgia,serif" font-size="13">Unyielding Monolith. Active nihilism.</text>
+  <text x="20" y="92" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="2">ENTER DOMAIN</text>
+</g><g transform="translate(10,130)">
+  <rect width="250" height="110" rx="2" fill="#0e0f12" stroke="#c9a227" stroke-opacity="0.3"/>
+  <rect x="0" y="0" width="3" height="110" fill="#c9a227"/>
+  <text x="20" y="38" fill="#e7e2d6" font-family="Georgia,serif" font-size="18" font-weight="600">Human Psychology</text>
+  <text x="20" y="68" fill="#9a9488" font-family="Georgia,serif" font-size="13">Biases. Status. Regression traps.</text>
+  <text x="20" y="92" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="2">ENTER DOMAIN</text>
+</g><g transform="translate(310,130)">
+  <rect width="250" height="110" rx="2" fill="#0e0f12" stroke="#c9a227" stroke-opacity="0.3"/>
+  <rect x="0" y="0" width="3" height="110" fill="#c9a227"/>
+  <text x="20" y="38" fill="#e7e2d6" font-family="Georgia,serif" font-size="18" font-weight="600">Strategic Games</text>
+  <text x="20" y="68" fill="#9a9488" font-family="Georgia,serif" font-size="13">Game trees. Minimax. Advantage.</text>
+  <text x="20" y="92" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="2">ENTER DOMAIN</text>
+</g><g transform="translate(610,130)">
+  <rect width="250" height="110" rx="2" fill="#0e0f12" stroke="#c9a227" stroke-opacity="0.3"/>
+  <rect x="0" y="0" width="3" height="110" fill="#c9a227"/>
+  <text x="20" y="38" fill="#e7e2d6" font-family="Georgia,serif" font-size="18" font-weight="600">Mythology</text>
+  <text x="20" y="68" fill="#9a9488" font-family="Georgia,serif" font-size="13">Homer. Daoist ascent. Ren Zu.</text>
+  <text x="20" y="92" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="2">ENTER DOMAIN</text>
+</g><g transform="translate(310,250)">
+  <rect width="250" height="110" rx="2" fill="#0e0f12" stroke="#c9a227" stroke-opacity="0.3"/>
+  <rect x="0" y="0" width="3" height="110" fill="#c9a227"/>
+  <text x="20" y="38" fill="#e7e2d6" font-family="Georgia,serif" font-size="18" font-weight="600">Science</text>
+  <text x="20" y="68" fill="#9a9488" font-family="Georgia,serif" font-size="13">First principles. Quantum frames.</text>
+  <text x="20" y="92" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="2">ENTER DOMAIN</text>
+</g></svg>

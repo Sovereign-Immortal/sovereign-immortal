@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="260" viewBox="0 0 920 260">
+  <rect width="920" height="260" fill="transparent"/>
+  <g>
+    <rect x="0" y="0" width="440" height="260" rx="2" fill="#0e0f12" stroke="#c9a227" stroke-opacity="0.35"/>
+    <rect x="10" y="10" width="420" height="240" fill="none" stroke="#c9a227" stroke-opacity="0.12"/>
+    <rect x="0" y="0" width="3" height="260" fill="#c9a227"/>
+    <text x="28" y="42" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="11" letter-spacing="3">IDENTITY</text>
+    <text x="28" y="88" fill="#e7e2d6" font-family="Georgia,serif" font-size="26" font-weight="600">Rank 3 Peak Stage</text>
+    <text x="28" y="122" fill="#e7e2d6" font-family="Georgia,serif" font-size="22">Gu Master</text>
+    <text x="28" y="158" fill="#9a9488" font-family="Georgia,serif" font-size="14">White Silver Primeval Essence</text>
+    <text x="28" y="186" fill="#c9c2b3" font-family="Georgia,serif" font-size="14">B.Tech CS · AI · ML</text>
+    <text x="28" y="228" fill="#e4c56a" font-family="ui-monospace,Consolas,monospace" font-size="11" letter-spacing="1.5">RULE · REFINEMENT · RESTRICTION · SOUL</text>
+  </g>
+  <g transform="translate(480,0)">
+    <rect x="0" y="0" width="440" height="260" rx="2" fill="#0e0f12" stroke="#c9a227" stroke-opacity="0.35"/>
+    <rect x="10" y="10" width="420" height="240" fill="none" stroke="#c9a227" stroke-opacity="0.12"/>
+    <rect x="0" y="0" width="3" height="260" fill="#c9a227"/>
+    <text x="28" y="42" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="11" letter-spacing="3">SECTS &amp; ACADEMIES</text>
+    <text x="28" y="88" fill="#e7e2d6" font-family="Georgia,serif" font-size="17">Quad AI School of Technology</text>
+    <text x="28" y="112" fill="#9a9488" font-family="Georgia,serif" font-size="13">Upskilling · OJT</text>
+    <text x="28" y="148" fill="#e7e2d6" font-family="Georgia,serif" font-size="17">Medhavi Skills University</text>
+    <text x="28" y="172" fill="#9a9488" font-family="Georgia,serif" font-size="13">B.Tech CS · AI · ML</text>
+    <text x="28" y="208" fill="#e7e2d6" font-family="Georgia,serif" font-size="17">NOIR'S ANVIL · GeoBucket</text>
+    <text x="28" y="232" fill="#9a9488" font-family="Georgia,serif" font-size="13">Co-Founder · SDE Intern</text>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="180" viewBox="0 0 300 180">
+  <defs>
+    <radialGradient id="mist" cx="80%" cy="15%" r="55%">
+      <stop offset="0%" stop-color="#c9a227" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0e0f12" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="300" height="180" rx="2" fill="#0e0f12" stroke="#c9a227" stroke-opacity="0.35" stroke-width="1.5"/>
+  <rect x="8" y="8" width="284" height="164" fill="none" stroke="#c9a227" stroke-opacity="0.12" stroke-width="1"/>
+  <rect width="300" height="180" fill="url(#mist)"/>
+  <rect x="0" y="0" width="3" height="180" fill="#c9a227"/>
+  
+  <text x="22" y="36" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="2">HACKATHON</text>
+  <text x="22" y="72" fill="#e7e2d6" font-family="Georgia,serif" font-size="22" font-weight="600">GenLink Anti-Scam</text>
+  <text x="22" y="100" fill="#e4c56a" font-family="ui-monospace,Consolas,monospace" font-size="11">MERN · JS</text>
+  <text x="22" y="136" fill="#9a9488" font-family="Georgia,serif" font-size="13">Digital armor for elders against scams.</text>
+  
+</svg>

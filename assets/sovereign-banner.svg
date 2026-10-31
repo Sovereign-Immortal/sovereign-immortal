@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img">
+  <title>The Sovereigns Library</title>
+  <defs>
+    <radialGradient id="mist" cx="78%" cy="28%" r="42%">
+      <stop offset="0%" stop-color="#c9a227" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#06070a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#06070a" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#040506" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c9a227" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c9a227" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#c9a227" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="#06070a"/>
+  <rect width="1200" height="280" fill="url(#mist)"/>
+  <rect width="1200" height="280" fill="url(#fade)"/>
+  <text x="600" y="78" text-anchor="middle" fill="#e4c56a" font-family="Georgia, Times New Roman, serif" font-size="13" letter-spacing="6" font-weight="600">RANK 3 PEAK  |  RULE  |  REFINEMENT  |  RESTRICTION  |  SOUL</text>
+  <text x="600" y="148" text-anchor="middle" fill="#e7e2d6" font-family="Georgia, Times New Roman, serif" font-size="52" font-weight="500">The Sovereign&#39;s Library</text>
+  <rect x="360" y="172" width="480" height="1" fill="url(#rule)"/>
+  <text x="600" y="210" text-anchor="middle" fill="#9a9488" font-family="Georgia, Times New Roman, serif" font-size="18" font-style="italic">Every domain of knowledge is a path of cultivation.</text>
+  <text x="600" y="248" text-anchor="middle" fill="#c9a227" font-family="Consolas, Courier New, monospace" font-size="12" letter-spacing="3">ANURAG SHRE  |  WHITE SILVER PRIMEVAL ESSENCE</text>
+</svg>

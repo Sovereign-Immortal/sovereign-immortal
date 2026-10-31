@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="260" viewBox="0 0 920 260"><rect width="920" height="260" fill="transparent"/><g transform="translate(10,0)">
+  <rect width="168" height="240" rx="10" fill="#14161c" stroke="#c45c6a" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="8" y="8" width="152" height="224" rx="6" fill="none" stroke="#c45c6a" stroke-opacity="0.18"/>
+  <text x="18" y="36" fill="#c45c6a" font-family="Georgia,serif" font-size="22" font-weight="700">Q</text>
+  <text x="18" y="58" fill="#c45c6a" font-family="Georgia,serif" font-size="16">♥</text>
+  <text x="84" y="118" text-anchor="middle" fill="#e7e2d6" font-family="Georgia,serif" font-size="13" font-weight="600">GeoBucket</text>
+  <text x="84" y="142" text-anchor="middle" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="9" letter-spacing="1">SDE Intern</text>
+  <text x="84" y="168" text-anchor="middle" fill="#9a9488" font-family="Georgia,serif" font-size="11">2026 →</text>
+  <text x="84" y="198" text-anchor="middle" fill="#c9c2b3" font-family="Georgia,serif" font-size="11">Decision science · AI</text>
+  <text x="150" y="220" text-anchor="end" fill="#c45c6a" font-family="Georgia,serif" font-size="16">♥</text>
+  <text x="150" y="238" text-anchor="end" fill="#c45c6a" font-family="Georgia,serif" font-size="18" font-weight="700">Q</text>
+</g><g transform="translate(194,0)">
+  <rect width="168" height="240" rx="10" fill="#14161c" stroke="#e7e2d6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="8" y="8" width="152" height="224" rx="6" fill="none" stroke="#e7e2d6" stroke-opacity="0.18"/>
+  <text x="18" y="36" fill="#e7e2d6" font-family="Georgia,serif" font-size="22" font-weight="700">K</text>
+  <text x="18" y="58" fill="#e7e2d6" font-family="Georgia,serif" font-size="16">♠</text>
+  <text x="84" y="118" text-anchor="middle" fill="#e7e2d6" font-family="Georgia,serif" font-size="13" font-weight="600">NOIR'S ANVIL</text>
+  <text x="84" y="142" text-anchor="middle" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="9" letter-spacing="1">Co-Founder</text>
+  <text x="84" y="168" text-anchor="middle" fill="#9a9488" font-family="Georgia,serif" font-size="11">May 2026 →</text>
+  <text x="84" y="198" text-anchor="middle" fill="#c9c2b3" font-family="Georgia,serif" font-size="11">Immersive fullstack</text>
+  <text x="150" y="220" text-anchor="end" fill="#e7e2d6" font-family="Georgia,serif" font-size="16">♠</text>
+  <text x="150" y="238" text-anchor="end" fill="#e7e2d6" font-family="Georgia,serif" font-size="18" font-weight="700">K</text>
+</g><g transform="translate(378,0)">
+  <rect width="168" height="240" rx="10" fill="#14161c" stroke="#e7e2d6" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="8" y="8" width="152" height="224" rx="6" fill="none" stroke="#e7e2d6" stroke-opacity="0.18"/>
+  <text x="18" y="36" fill="#e7e2d6" font-family="Georgia,serif" font-size="22" font-weight="700">J</text>
+  <text x="18" y="58" fill="#e7e2d6" font-family="Georgia,serif" font-size="16">♠</text>
+  <text x="84" y="118" text-anchor="middle" fill="#e7e2d6" font-family="Georgia,serif" font-size="13" font-weight="600">Techprolabz</text>
+  <text x="84" y="142" text-anchor="middle" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="9" letter-spacing="1">Frontend · OJT</text>
+  <text x="84" y="168" text-anchor="middle" fill="#9a9488" font-family="Georgia,serif" font-size="11">Nov 25 → Jan 26</text>
+  <text x="84" y="198" text-anchor="middle" fill="#c9c2b3" font-family="Georgia,serif" font-size="11">Last Stand flagship</text>
+  <text x="150" y="220" text-anchor="end" fill="#e7e2d6" font-family="Georgia,serif" font-size="16">♠</text>
+  <text x="150" y="238" text-anchor="end" fill="#e7e2d6" font-family="Georgia,serif" font-size="18" font-weight="700">J</text>
+</g><g transform="translate(562,0)">
+  <rect width="168" height="240" rx="10" fill="#14161c" stroke="#6fa8dc" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="8" y="8" width="152" height="224" rx="6" fill="none" stroke="#6fa8dc" stroke-opacity="0.18"/>
+  <text x="18" y="36" fill="#6fa8dc" font-family="Georgia,serif" font-size="22" font-weight="700">A</text>
+  <text x="18" y="58" fill="#6fa8dc" font-family="Georgia,serif" font-size="16">♦</text>
+  <text x="84" y="118" text-anchor="middle" fill="#e7e2d6" font-family="Georgia,serif" font-size="13" font-weight="600">Quad AI School</text>
+  <text x="84" y="142" text-anchor="middle" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="9" letter-spacing="1">OJT</text>
+  <text x="84" y="168" text-anchor="middle" fill="#9a9488" font-family="Georgia,serif" font-size="11">Aug 2025 →</text>
+  <text x="84" y="198" text-anchor="middle" fill="#c9c2b3" font-family="Georgia,serif" font-size="11">Godot 4 · Fullstack</text>
+  <text x="150" y="220" text-anchor="end" fill="#6fa8dc" font-family="Georgia,serif" font-size="16">♦</text>
+  <text x="150" y="238" text-anchor="end" fill="#6fa8dc" font-family="Georgia,serif" font-size="18" font-weight="700">A</text>
+</g><g transform="translate(746,0)">
+  <rect width="168" height="240" rx="10" fill="#14161c" stroke="#8fbf9a" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="8" y="8" width="152" height="224" rx="6" fill="none" stroke="#8fbf9a" stroke-opacity="0.18"/>
+  <text x="18" y="36" fill="#8fbf9a" font-family="Georgia,serif" font-size="22" font-weight="700">A</text>
+  <text x="18" y="58" fill="#8fbf9a" font-family="Georgia,serif" font-size="16">♣</text>
+  <text x="84" y="118" text-anchor="middle" fill="#e7e2d6" font-family="Georgia,serif" font-size="13" font-weight="600">Medhavi University</text>
+  <text x="84" y="142" text-anchor="middle" fill="#c9a227" font-family="ui-monospace,Consolas,monospace" font-size="9" letter-spacing="1">B.Tech CS · AI · ML</text>
+  <text x="84" y="168" text-anchor="middle" fill="#9a9488" font-family="Georgia,serif" font-size="11">Aug 2025 →</text>
+  <text x="84" y="198" text-anchor="middle" fill="#c9c2b3" font-family="Georgia,serif" font-size="11">HPC · ML · UX</text>
+  <text x="150" y="220" text-anchor="end" fill="#8fbf9a" font-family="Georgia,serif" font-size="16">♣</text>
+  <text x="150" y="238" text-anchor="end" fill="#8fbf9a" font-family="Georgia,serif" font-size="18" font-weight="700">A</text>
+</g></svg>
